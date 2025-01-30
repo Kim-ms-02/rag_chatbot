@@ -1,0 +1,10 @@
+streamlit
+langchain
+faiss-cpu
+openai
+pymupdf
+langchain-openai
+langchain-community
+streamlit-chat
+lang
+python-dotenv
